@@ -22,3 +22,6 @@ Lessons:
 - 07 — Tree recursion patterns (height, diameter, LCA)
 - 08 — Serialize/deserialize & tree construction
 - 09 — LeetCode practice set: Trees
+- 10 — Segment tree: range sum/min queries with point updates
+- 11 — Fenwick tree (Binary Indexed Tree): prefix sums & the low-bit trick
+- 12 — Morris in-order traversal: O(1)-space threaded traversal

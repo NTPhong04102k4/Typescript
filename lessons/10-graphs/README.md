@@ -19,3 +19,6 @@ Lessons:
 - 07 — Cycle detection (directed & undirected)
 - 08 — Minimum spanning tree (Kruskal/Prim overview)
 - 09 — LeetCode practice set: Graphs
+- 10 — Shortest path: Bellman-Ford (negative edges & negative-cycle detection)
+- 11 — All-pairs shortest path: Floyd-Warshall
+- 12 — Strongly connected components: Tarjan's algorithm
