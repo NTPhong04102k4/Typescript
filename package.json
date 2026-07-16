@@ -1,0 +1,15 @@
+{
+  "name": "dsa-typescript",
+  "version": "1.0.0",
+  "description": "100-lesson DSA & LeetCode curriculum in TypeScript, with JS engine internals notes",
+  "private": true,
+  "scripts": {
+    "run": "ts-node",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.14.0"
+  }
+}
